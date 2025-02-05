@@ -1,0 +1,27 @@
+{
+	"name": "algo",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "vitest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sergey-frey/algo.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "module",
+	"bugs": {
+		"url": "https://github.com/sergey-frey/algo/issues"
+	},
+	"homepage": "https://github.com/sergey-frey/algo#readme",
+	"devDependencies": {
+		"@types/node": "^22.13.1",
+		"tsx": "^4.19.2",
+		"typescript": "^5.7.3",
+		"vitest": "^3.0.5"
+	}
+}
